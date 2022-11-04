@@ -421,5 +421,6 @@ p{
     }
     .logo-letter{
         font-size: 30px;
+        margin-right:5px;
     }
 }
