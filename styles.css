@@ -273,6 +273,11 @@ p{
     max-width: 750px;
     display: flex;
     justify-content: space-between;
+}
+
+.portfolio{
+    display: flex;
+    justify-content: space-between;
     flex-direction: column;
 }
 
